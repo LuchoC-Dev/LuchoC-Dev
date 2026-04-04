@@ -49,11 +49,19 @@ Modern blog built with Next.js and TypeScript.
 ## 📚 Education
 
 **Licenciatura en Sistemas** — Universidad Nacional de General Sarmiento (UNGS)
-_2022 – Present_
+_Mid-2023 – Present_
 
-**Courses & Certifications**
-- Desarrollo Web, JavaScript, React, Programación Backend — Coderhouse
-- Data Analytics, Tableau, Excel — Coderhouse
+**Ingeniería en Electromecánica** — Universidad Nacional de General Sarmiento (UNGS)
+_2021 – 2023_
+
+## 🎓 Certifications — Coderhouse
+
+- **TOP 10** 🥇 Desarrollo Web (Feb 2023)
+- **TOP 10** 🥇 Tableau (Mar 2023)
+- Excel (Feb 2023)
+- JavaScript (May 2023)
+- React JS (Jul 2023)
+- Data Analytics (Jul 2023)
 
 ---
 
