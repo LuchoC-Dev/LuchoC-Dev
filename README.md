@@ -46,6 +46,20 @@ Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backe
 
 ## Featured Projects
 
+### [frontend-classroom](https://frontend-classroom.luchoc-dev.workers.dev)
+
+Deployed educational platform for learning **HTML** and **CSS** from scratch, built with **Astro 5**, **React 19**, **TypeScript**, **Tailwind CSS**, **CodeMirror**, **Vitest**, and **Playwright**.
+
+**Highlights**
+- Guided learning path with modules, lessons, and exercises
+- Executable sandbox with automatic feedback
+- Reference section inspired by MDN/web.dev
+- Glossary and structured learning content
+- Unit and end-to-end testing setup
+- Private repository, public deployment
+
+---
+
 ### [PhonEcommerce](https://github.com/LuchoC-Dev/PhonEcommerce)
 
 Fullstack phone e-commerce built with **Next.js 16**, **Fastify 5**, **PostgreSQL**, **Prisma**, **Tailwind CSS**, and **TypeScript**.
