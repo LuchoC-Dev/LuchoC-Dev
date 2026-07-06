@@ -1,10 +1,22 @@
 # Hi, I'm Luciano Carrizo
 
-Fullstack developer focused on **TypeScript**, **Java**, and practical software projects.
+AI-first fullstack developer focused on **TypeScript**, **Java**, and developer tooling.
 
-I enjoy building complete applications: clean user interfaces, backend logic, data persistence, documentation, and developer tools that make workflows easier. I use AI coding assistants as part of my daily development process, especially Claude Code and Codex/ChatGPT, while keeping the technical decisions and implementation under my own control.
+I build fullstack products and tools around AI-assisted development: agent workflows, structured prompts, persistent project context, specs, documentation systems, and local-first tooling for developers.
+
+My daily workflow includes **Claude Code**, **Codex/ChatGPT**, **Engram**, **Obsidian**, MCP servers, GitHub, and custom agent/orchestration setups. I care about using AI as an engineering workflow multiplier, not as a replacement for technical ownership.
 
 Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backend** developer.
+
+---
+
+## AI Workflow & Developer Tooling
+
+- Build and use agent-based workflows for coding, planning, review, documentation, and project handoff
+- Work with AI-first project structures: `.agents/`, prompts, skills, specs, workflows, and orchestration docs
+- Use Engram and Obsidian for persistent knowledge, project memory, decisions, and technical notes
+- Design local-first tools for Claude Code workflows, MCP configuration, usage tracking, and session management
+- Combine AI-assisted development with TypeScript, Java, React, Node.js, Rust basics, Git, and structured documentation
 
 ---
 
@@ -40,12 +52,42 @@ Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backe
 **Tools**
 - Git
 - GitHub
-- Claude code
-- Codex
+- Claude Code
+- Codex / ChatGPT
+- Engram
+- Obsidian
+- MCP
+- Agent workflows
 - Antigravity
+
 ---
 
 ## Featured Projects
+
+### [agent-kits](https://github.com/LuchoC-Dev/agent-kits)
+
+AI-first workspace bootstrapper for installing curated **skills**, **packs**, **agents**, workflows, and development disciplines into `.agents/`. Cross-compatible with **Claude Code** and **OpenCode**.
+
+**Highlights**
+- Generates AI-ready project workspaces
+- Includes skills, packs, global agents, and workflow templates
+- Supports development disciplines like SDD, TDD, BDD, contract-first, and trunk-based development
+- Designed for repeatable agent-assisted engineering workflows
+
+---
+
+### opcodelucho
+
+Private desktop application for managing Claude Code workflows. Built with **Tauri 2**, **Rust**, **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **SQLite**.
+
+**Highlights**
+- Project and session management for Claude Code
+- Custom agent workflows
+- Usage and cost dashboard
+- MCP server management
+- Local-first desktop architecture
+
+---
 
 ### [frontend-classroom](https://frontend-classroom.luchoc-dev.workers.dev)
 
@@ -82,19 +124,6 @@ Academic organizer mobile app built with **Expo**, **React Navigation**, **Zusta
 - Course and task organization
 - Local state management with Zustand
 - TypeScript-based React Native development
-
----
-
-### opcodelucho
-
-Private desktop application for managing Claude Code workflows. Built with **Tauri 2**, **Rust**, **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **SQLite**.
-
-**Highlights**
-- Project and session management for Claude Code
-- Custom agent workflows
-- Usage and cost dashboard
-- MCP server management
-- Local-first desktop architecture
 
 ---
 
