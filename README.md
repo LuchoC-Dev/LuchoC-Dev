@@ -1,10 +1,10 @@
 # Hi, I'm Luciano Carrizo
 
-AI-first fullstack developer focused on **TypeScript**, **Java**, and developer tooling.
+AI-first fullstack developer focused on **TypeScript**, **Java**, software architecture, and developer tooling.
 
 I build fullstack products and tools around AI-assisted development: agent workflows, structured prompts, persistent project context, specs, documentation systems, and local-first tooling for developers.
 
-My daily workflow includes **Claude Code**, **Codex/ChatGPT**, **Engram**, **Obsidian**, MCP servers, GitHub, and custom agent/orchestration setups. I care about using AI as an engineering workflow multiplier, not as a replacement for technical ownership.
+My daily workflow includes **Claude Code**, **Codex/ChatGPT**, **Engram**, **Obsidian**, MCP servers, GitHub, and custom agent/orchestration setups. I care about treating AI tools like engineering components: with context, repeatable workflows, traceability, recovery paths, and clear technical ownership.
 
 Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backend** developer.
 
@@ -13,10 +13,21 @@ Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backe
 ## AI Workflow & Developer Tooling
 
 - Build and use agent-based workflows for coding, planning, review, documentation, and project handoff
-- Work with AI-first project structures: `.agents/`, prompts, skills, specs, workflows, and orchestration docs
+- Work with AI-first project structures: `.agents/`, prompts, skills, specs, workflows, orchestration docs, and `CLAUDE.md` conventions
 - Use Engram and Obsidian for persistent knowledge, project memory, decisions, and technical notes
 - Design local-first tools for Claude Code workflows, MCP configuration, usage tracking, and session management
+- Explore agent orchestration patterns with file-based queues, chained jobs, resumable sessions, and context handoff
 - Combine AI-assisted development with TypeScript, Java, React, Node.js, Rust basics, Git, and structured documentation
+
+---
+
+## Architecture & Engineering Practices
+
+- Design projects with explicit architecture documents, ADR-style decisions, service boundaries, and implementation notes
+- Prefer clean separation between domain logic, framework code, persistence, and delivery layers
+- Work with monorepos, pnpm workspaces, Docker Compose, REST APIs, and event-driven/system-integration patterns
+- Use tests, typed contracts, validation, logs, and documentation as part of the development workflow
+- Choose tools by problem fit instead of forcing every project into the same stack
 
 ---
 
@@ -37,11 +48,12 @@ Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backe
 - Node.js
 - Fastify
 - REST APIs
-- spring ecosystem
+- Spring ecosystem
 - MongoDB
 - PostgreSQL
 - Prisma
 - SQL basics
+- SQLite
 
 **Mobile and desktop**
 - React Native
@@ -72,20 +84,20 @@ AI-first workspace bootstrapper for installing curated **skills**, **packs**, **
 - Generates AI-ready project workspaces
 - Includes skills, packs, global agents, and workflow templates
 - Supports development disciplines like SDD, TDD, BDD, contract-first, and trunk-based development
-- Designed for repeatable agent-assisted engineering workflows
+- Designed for repeatable agent-assisted engineering workflows and project setup
 
 ---
 
 ### opcodelucho
 
-Private desktop application for managing Claude Code workflows. Built with **Tauri 2**, **Rust**, **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **SQLite**.
+Private desktop application and toolkit for managing Claude Code workflows. Built with **Tauri 2**, **Rust**, **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **SQLite**.
 
 **Highlights**
 - Project and session management for Claude Code
 - Custom agent workflows
 - Usage and cost dashboard
 - MCP server management
-- Local-first desktop architecture
+- Local-first desktop architecture for AI-assisted development
 
 ---
 
