@@ -25,6 +25,7 @@ Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backe
 - Node.js
 - Fastify
 - REST APIs
+- spring ecosystem
 - MongoDB
 - PostgreSQL
 - Prisma
@@ -35,6 +36,11 @@ Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backe
 - Expo
 - Tauri
 - Rust basics
+
+**AI assistant **
+- Claude code
+- Codex
+- Antigravity
 
 **Tools**
 - Git
