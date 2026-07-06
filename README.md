@@ -37,17 +37,12 @@ Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backe
 - Tauri
 - Rust basics
 
-**AI assistant **
-- Claude code
-- Codex
-- Antigravity
-
 **Tools**
 - Git
 - GitHub
-- Claude Code
-- Codex / ChatGPT
-
+- Claude code
+- Codex
+- Antigravity
 ---
 
 ## Featured Projects
