@@ -1,76 +1,118 @@
-# Full Stack Developer | TypeScript & Java Specialist
+# Hi, I'm Luciano Carrizo
 
-Building quality software with modern tools
-Focused on learning and building quality software
+Fullstack developer focused on **TypeScript**, **Java**, and practical software projects.
+
+I enjoy building complete applications: clean user interfaces, backend logic, data persistence, documentation, and developer tools that make workflows easier. I use AI coding assistants as part of my daily development process, especially Claude Code and Codex/ChatGPT, while keeping the technical decisions and implementation under my own control.
+
+Currently looking for opportunities as a **Fullstack**, **Frontend**, or **Backend** developer.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**
-- **TypeScript** · JavaScript
-- **Java**
+**Main languages**
+- TypeScript
+- Java
 
 **Frontend**
-- React (Intermediate)
-- HTML · CSS
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
 
-**Backend**
-- Spring Framework · Node.js
+**Backend and data**
+- Node.js
+- Fastify
+- REST APIs
+- MongoDB
+- PostgreSQL
+- Prisma
+- SQL basics
 
-**Tools & Others**
-- Git · REST APIs · SQL
-- Docker · Linux
+**Mobile and desktop**
+- React Native
+- Expo
+- Tauri
+- Rust basics
 
----
-
-## 🚀 Featured Projects
-
-### [Mobile Calendar](https://github.com/LuchoC-Dev/mobile-calendar)
-Modern academic calendar app built with React Native, Expo & TypeScript.
-
-**Highlights:**
-- Weekly & monthly calendar views with course management
-- Assignment tracking with status management
-- Clean TypeScript architecture with proper separation of concerns
-- Interactive UI with smooth animations
-
-**Stack:** React Native · Expo · TypeScript · Vitest
-
----
-
-### [Blog Web](https://github.com/LuchoC-Dev/blog-web-1)
-Modern blog built with Next.js and TypeScript.
-
-**Stack:** Next.js · React · TypeScript
+**Tools**
+- Git
+- GitHub
+- Claude Code
+- Codex / ChatGPT
 
 ---
 
-## 📚 Education
+## Featured Projects
 
-**Licenciatura en Sistemas** — Universidad Nacional de General Sarmiento (UNGS)
-_Mid-2023 – Present_
+### [PhonEcommerce](https://github.com/LuchoC-Dev/PhonEcommerce)
 
-**Ingeniería en Electromecánica** — Universidad Nacional de General Sarmiento (UNGS)
-_2021 – 2023_
+Fullstack phone e-commerce built with **Next.js 16**, **Fastify 5**, **PostgreSQL**, **Prisma**, **Tailwind CSS**, and **TypeScript**.
 
-## 🎓 Certifications — Coderhouse
-
-- **TOP 10** 🥇 Desarrollo Web (Feb 2023)
-- **TOP 10** 🥇 Tableau (Mar 2023)
-- Excel (Feb 2023)
-- JavaScript (May 2023)
-- React JS (Jul 2023)
-- Data Analytics (Jul 2023)
+**Highlights**
+- Frontend and backend in a fullstack architecture
+- Product and commerce-oriented data modeling
+- PostgreSQL persistence with Prisma
+- Modern TypeScript stack across the project
 
 ---
 
-## 📞 Connect
+### [my-school-app](https://github.com/LuchoC-Dev/my-school-app)
 
-- **LinkedIn:** [luciano-carrizo](https://www.linkedin.com/in/luciano-carrizo-52b449318)
-- **Email:** LuchoC.dev@gmail.com
-- **Location:** José C. Paz, Buenos Aires, Argentina
+Academic organizer mobile app built with **Expo**, **React Navigation**, **Zustand**, and **TypeScript**.
+
+**Highlights**
+- Mobile-first academic workflow
+- Course and task organization
+- Local state management with Zustand
+- TypeScript-based React Native development
 
 ---
 
-### ⚡ Always learning, always building
+### opcodelucho
+
+Private desktop application for managing Claude Code workflows. Built with **Tauri 2**, **Rust**, **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **SQLite**.
+
+**Highlights**
+- Project and session management for Claude Code
+- Custom agent workflows
+- Usage and cost dashboard
+- MCP server management
+- Local-first desktop architecture
+
+---
+
+## Education
+
+**Licenciatura en Sistemas**  
+Universidad Nacional de General Sarmiento (UNGS)  
+2023 - Present
+
+**Ingenieria en Electromecanica**  
+Universidad Nacional de General Sarmiento (UNGS)  
+2021 - 2023
+
+---
+
+## Certifications
+
+Coderhouse:
+- Desarrollo Web - Top 10
+- JavaScript
+- React JS
+- Excel
+- Tableau - Top 10
+- Data Analytics
+
+---
+
+## Contact
+
+- LinkedIn: [luciano-carrizo](https://www.linkedin.com/in/luciano-carrizo-52b449318)
+- Email: [LuchoC.dev@gmail.com](mailto:LuchoC.dev@gmail.com)
+- Location: Buenos Aires, Argentina
+
+---
+
+Always learning, always building.
