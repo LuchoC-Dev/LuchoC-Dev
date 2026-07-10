@@ -165,7 +165,7 @@ Coderhouse:
 
 ## Contact
 
-- LinkedIn: [luciano-carrizo](https://www.linkedin.com/in/luciano-carrizo-52b449318)
+- LinkedIn: [luciano-carrizo](https://www.linkedin.com/in/luciano-carrizo-dev)
 - Email: [LuchoC.dev@gmail.com](mailto:LuchoC.dev@gmail.com)
 - Location: Buenos Aires, Argentina
 
